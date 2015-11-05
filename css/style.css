@@ -1,0 +1,42 @@
+.box {
+	background-color: #E7504B;
+	color: #fff;
+	width: 300px;
+	/*	height: 300px;*/
+	/*clock-wise*/
+	padding: 100px 20px 10px 50px;
+
+	border-width: 10px;
+	border-style: solid;
+	border-color: #59FF7C;
+
+	margin-: 16px;
+
+}
+
+
+.first-box {
+	background-color: #68FF2F;
+	height: 400px;
+	width: 400px;
+	margin: 10px;
+	margin: auto;
+
+}
+
+.modified-first-box {
+	background-color: #979797;
+	border-width: 2px;
+	border-style: solid;
+	border-color: orange;
+	padding: 5px;
+}
+
+.border-box {
+	box-sizing: border-box;
+
+}
+
+
+
+
